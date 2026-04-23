@@ -27,7 +27,7 @@ AstrBot 的 NASA Astronomy Picture of the Day 插件。
 ### 获取今日 APOD
 
 ```text
-apod
+/apod
 ```
 
 ## 配置说明
